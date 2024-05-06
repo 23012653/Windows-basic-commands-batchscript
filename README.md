@@ -32,6 +32,7 @@ Create a directory named "MyLab" on the desktop.
 
 ## COMMAND AND OUTPUT
 mkdir %userprofile%\Desktop\MyLab
+
 ![WhatsApp Image 2024-05-06 at 19 06 51_1dfd2d11](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/ad4c7446-2b1e-422b-b4bb-25a13353d62a)
 
 
@@ -40,6 +41,7 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 
 ## COMMAND AND OUTPUT
 cd %userprofile%\Desktop\MyLab
+
 ![WhatsApp Image 2024-05-06 at 19 07 33_2761447e](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/3a6d27ff-deb5-4075-b57b-abffffb63379)
 ![WhatsApp Image 2024-05-06 at 19 07 47_e240f942](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/9a7000d9-41fd-4570-ad1a-d14678dd48d1)
 
@@ -48,12 +50,14 @@ List the contents of the "MyLab" directory.
 
 ## COMMAND AND OUTPUT
 dir %userprofile%\Desktop\MyLab
+
 ![WhatsApp Image 2024-05-06 at 19 09 18_37e36bd9](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/9a8157df-3e61-473b-b60b-d6ebb3f56533)
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ## COMMAND AND OUTPUT
 mkdir %userprofile%\Desktop\Backup
+
 
 copy MyFile.txt %userprofile%\Desktop\Backup
 
@@ -94,8 +98,7 @@ echo Backup and deletion completed successfully!
 ## OUTPUT
 ![WhatsApp Image 2024-05-06 at 19 11 56_76fbb043](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/47971ce1-a393-48ab-9f6a-7ebab394f1bb)
 
-## RESULT
-The commands/batch files are executed successfully.
+
 
 
 
