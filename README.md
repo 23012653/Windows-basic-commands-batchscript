@@ -52,8 +52,6 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 ![WhatsApp Image 2024-05-18 at 14 07 58_389c85d4](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/6a21dc79-3615-457a-8ff0-f5f2e482f3de)
 ![WhatsApp Image 2024-05-18 at 14 08 05_80655784](https://github.com/23012653/Windows-basic-commands-batchscript/assets/150777517/d98a0654-65fe-4545-a518-5b2a16754330)
 
-## RESULT
-The commands/batch files are executed successfully.
 
 
 
